@@ -25,6 +25,8 @@
   "description": "",
   "repository" : { 
    "type" : "git",
-   "url" : "https://github.com/npm/npm.git"
- }
+   "url" : "https://github.com/npm/npm.git",
+  
+ } 
+  "terser": "3.14.1"
 }
